@@ -49,5 +49,3 @@ yarn web
 - Photos saved from the preview are captured from the Polaroid card using **react-native-view-shot**.
 - The viewfinder and Polaroid components live in `src/screens/CameraScreen.tsx`.
 
-## License
-License not specified yet.
