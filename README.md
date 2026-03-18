@@ -1,4 +1,4 @@
-# RetroCamera
+# RetroCamera(复古相机)
 
 A retro‑styled camera app built with Expo/React Native. It blends skeuomorphic UI touches (glass panels, film grain, viewfinder corners) with Polaroid‑style photo captures.
 
